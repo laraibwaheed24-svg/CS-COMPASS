@@ -1,1 +1,78 @@
 
+{
+  "university": "UET Peshawar",
+  "program": "BS Computer Science",
+  "degree_duration": "4 Years",
+  "total_semesters": 8,
+  "curriculum_version": "2025-26 reference",
+  "verification_status": "Pending Fall 2026 confirmation",
+  "semesters": [
+    {
+      "semester_number": 1,
+      "name": "Semester 1",
+      "subjects": [
+        {
+          "code": "CS-101",
+          "name": "Applications of ICT",
+          "lecture_hours": 2,
+          "lab_hours": 3,
+          "credit_hours": 3,
+          "topics": [],
+          "outline_status": "Pending verification"
+        },
+        {
+          "code": "CS-102",
+          "name": "Programming Fundamentals",
+          "lecture_hours": 3,
+          "lab_hours": 3,
+          "credit_hours": 4,
+          "topics": [],
+          "outline_status": "Pending verification"
+        },
+        {
+          "code": "CS-103",
+          "name": "Discrete Structures",
+          "lecture_hours": 3,
+          "lab_hours": 0,
+          "credit_hours": 3,
+          "topics": [],
+          "outline_status": "Pending verification"
+        },
+        {
+          "code": "BSI-123",
+          "name": "Calculus and Analytic Geometry",
+          "lecture_hours": 3,
+          "lab_hours": 0,
+          "credit_hours": 3,
+          "topics": [],
+          "outline_status": "Pending verification"
+        },
+        {
+          "code": "BSI-133",
+          "name": "Functional English",
+          "lecture_hours": 3,
+          "lab_hours": 0,
+          "credit_hours": 3,
+          "topics": [],
+          "outline_status": "Pending verification"
+        },
+        {
+          "code": "BSI-102",
+          "name": "Fehm-e-Quran-I",
+          "lecture_hours": 1,
+          "lab_hours": 0,
+          "credit_hours": 1,
+          "topics": [],
+          "outline_status": "Pending verification"
+        }
+      ],
+      "pre_medical_alternative": {
+        "code": "BSI-110M",
+        "name": "Maths-I",
+        "replaces": "BSI-123",
+        "credit_hours": 0
+      }
+    }
+  ]
+}
+
